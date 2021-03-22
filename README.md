@@ -1,5 +1,4 @@
 # Swift Playgrounds Author Template
-Swift Playgrounds Author Template ile profesyonel Playground projeleri oluşturun! Bu makale size WWDC Scholarship veya Swift Student Challenge başvurunuzdaki ilk adımları atarken yardımcı olacak.
+Swift Playgrounds Author Template ile profesyonel Playground projeleri oluşturun!
 
-
-[Makale Linki - Medium](https://medium.com/p/6e80f4c565b8/)
+Makalemize [buradan](https://medium.com/p/6e80f4c565b8/) ulaşabilirsiniz.
